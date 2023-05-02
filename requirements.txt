@@ -26,7 +26,6 @@ hiplot==0.1.33
 idna==3.4
 imageio==2.26.0
 importlib-metadata==6.0.0
-iodptools==0.1.1
 ipykernel==6.17.1
 ipython==8.6.0
 isodate==0.6.1
